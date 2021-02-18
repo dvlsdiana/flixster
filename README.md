@@ -42,6 +42,8 @@ Describe any challenges encountered while building the app.
 
 <img src="https://i.imgur.com/AyOOfjZt.gif" title='Video Walkthrough' width='' alt='Video Walkthrough'><br>
 
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/EDO6471" data-context="false" ><a href="//imgur.com/a/EDO6471"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
 
 
 
